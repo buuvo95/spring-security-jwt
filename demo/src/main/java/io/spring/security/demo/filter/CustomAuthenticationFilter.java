@@ -1,4 +1,4 @@
-package io.spring.security.demo.controller.filter;
+package io.spring.security.demo.filter;
 
 import com.auth0.jwt.JWT;
 import com.auth0.jwt.algorithms.Algorithm;
